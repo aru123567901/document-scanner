@@ -23,7 +23,7 @@ tool:
 ### 1. Clone the repo and install Python dependencies
 
 ```bash
-git clone https://github.com/{username}/{repo-name}.git
+git clone https://github.com/aru123567901/document-scanner.git
 cd document-scanner
 pip install -r requirements.txt
 ```
